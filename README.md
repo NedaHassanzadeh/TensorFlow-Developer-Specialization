@@ -1,6 +1,6 @@
 # TensorFlow-Developer-Specialization
 
-This Repository contains the assignments and projects of the [Deep Learning Specialization Course](https://www.coursera.org/professional-certificates/tensorflow-in-practice) offered by deeplearning.ai. 
+This Repository contains the assignments and projects of the [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) course on Course on [Coursera](https://www.coursera.org) offered by `deeplearning.ai`.  
 
 ## Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 - [Week 1- Housing Prices](https://github.com/NedaHassanzadeh/TensorFlow-Developer-Specialization/blob/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning/week1/Exercise_1_House_Prices_Question.ipynb)
